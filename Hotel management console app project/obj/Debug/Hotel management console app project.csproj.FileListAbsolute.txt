@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\bin\Debug\Hotel management console app project.exe.config
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\bin\Debug\Hotel management console app project.exe
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\bin\Debug\Hotel management console app project.pdb
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\obj\Debug\Hotel management console app project.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\obj\Debug\Hotel management console app project.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\obj\Debug\Hotel management console app project.exe
+C:\Users\admin\Desktop\console projects\Hotel management console app project\Hotel management console app project\obj\Debug\Hotel management console app project.pdb
